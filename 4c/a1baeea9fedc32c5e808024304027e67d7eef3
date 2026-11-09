@@ -1,0 +1,417 @@
+client/features/sources/components/markdown-preview.tsx
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-11
+client/features/sources/lib/routes.ts
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-5
+client/features/workspaces/components/delete-workspace-dialog.tsx
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-63
+server/src/controllers/source.controller.ts
+  s_3c92245d94e819::t_f278c56e8f1804 7,11,19,21,25-26,189-231
+server/src/routes/artifact.routes.ts
+  s_3c92245d94e819::t_35d58ddf55abdb 1-16
+client/app/(auth)/layout.tsx
+  s_0e026d7e2eeda5::t_ea1368fde51d4b 1-8,10-24
+  s_0e026d7e2eeda5::t_c04b4867e24239 9
+client/features/workspaces/lib/workspace-server.ts
+  s_ced191e4fbf385::t_dc15296945efa0 1-28
+client/.agents/skills/better-ui/icons.md
+  s_ced191e4fbf385::t_a3e3aab2646b25 1-105
+client/features/sources/lib/types.ts
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-63
+client/skills-lock.json
+  s_ced191e4fbf385::t_a3e3aab2646b25 1-11
+server/src/lib/conversation-events.ts
+  s_0e026d7e2eeda5::t_331cdb12230250 1,3
+  s_0e026d7e2eeda5::t_4817396d4956e3 9
+client/features/auth/hooks/use-session.ts
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1
+server/src/index.ts
+  s_b1e2c19ab0ce1b::t_beadaf16e3579e 2-3,6,9-39,42-45,49,54,56-57,59-61,63-69,72-75,78,80-88,90-94,96-103,105-113
+client/features/chat/lib/citations.ts
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-20
+client/features/memory/lib/routes.ts
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-3
+client/.agents/skills/better-ui/enter-exit.md
+  s_ced191e4fbf385::t_a3e3aab2646b25 1-157
+client/features/learn/components/viewers/takeaways-viewer.tsx
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-90
+client/features/memory/components/memory-form-dialog.tsx
+  s_ced191e4fbf385::t_f9a9dc5f37467e 1-117
+client/features/chat/components/message-actions.tsx
+  s_ced191e4fbf385::t_741adda500f1fc 1-113
+client/next.config.ts
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 4,40-63
+  s_ced191e4fbf385::t_54eb8917bf7a98 3,5-32,34-39
+client/app/not-found.tsx
+  s_ced191e4fbf385::t_9fa2f139e98d83 1-33
+server/src/lib/artifact-events.ts
+  s_0e026d7e2eeda5::t_4817396d4956e3 9
+  s_0e026d7e2eeda5::t_331cdb12230250 1,3
+server/src/controllers/chat.controller.ts
+  s_3c92245d94e819::t_35d58ddf55abdb 1-68
+server/src/lib/auth.ts
+  s_b1e2c19ab0ce1b::t_dafd634dcc29d2 5-9,12-13,16,18,25-26
+client/features/sources/components/source-card.tsx
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-125
+server/src/controllers/artifact.controller.ts
+  s_3c92245d94e819::t_35d58ddf55abdb 1-52
+server/src/routes/chat.routes.ts
+  s_3c92245d94e819::t_35d58ddf55abdb 1-24
+client/.agents/skills/better-ui/icon-transitions.md
+  s_ced191e4fbf385::t_a3e3aab2646b25 1-72
+server/src/trigger/generate-artifact.ts
+  s_0e026d7e2eeda5::t_4817396d4956e3 8-10,12-13
+  s_0e026d7e2eeda5::t_331cdb12230250 1-7,11,14-15
+client/components/ui/carousel.tsx
+  s_ced191e4fbf385::t_5f2f310fcd706c 98-99
+client/.env.example
+  s_ced191e4fbf385::t_8353dd11b7ef06 1-10
+client/app/error.tsx
+  s_ced191e4fbf385::t_fb68bc980563b4 1-48
+client/.agents/skills/better-ui/surfaces.md
+  s_ced191e4fbf385::t_a3e3aab2646b25 1-166
+server/tsconfig.json
+  s_0e026d7e2eeda5::t_c414b7777f5f4d 6-8,16-25
+server/package.json
+  s_3c92245d94e819::t_cecd5eec699cb3 7,53
+  s_0e026d7e2eeda5::t_f8a76319fcf37a 13-16,52,54
+  s_0e026d7e2eeda5::t_c414b7777f5f4d 5,9
+  s_b1e2c19ab0ce1b::t_e48755a14c4a95 8,10-12,29,47,57-59
+client/features/chat/stores/chat-preferences.ts
+  s_ced191e4fbf385::t_bee3ed425e0ad5 1-88
+client/features/learn/components/artifact-status-badge.tsx
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-31
+client/features/learn/components/viewers/report-viewer.tsx
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-34
+server/src/routes/source.routes.ts
+  s_3c92245d94e819::t_f278c56e8f1804 8-9,13-14,28-29,34-35
+client/.agents/skills/better-ui/agents/openai.yaml
+  s_ced191e4fbf385::t_a3e3aab2646b25 1-3
+client/.gitignore
+  s_ced191e4fbf385::t_70c348ad845dc3 35
+client/README.md
+  s_ced191e4fbf385::t_4ec02845524963 1,3,5-7,10-12,15-28,30-33,35,37,39-41,43,45,47-49,51,53-64
+client/features/memory/lib/types.ts
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-17
+server/nodemon.json
+  s_3c92245d94e819::t_cecd5eec699cb3 1-7
+client/features/chat/lib/api.ts
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-52
+client/app/robots.ts
+  s_ced191e4fbf385::t_2d3c677bc2b619 1-15
+client/features/workspaces/components/workspace-shell.tsx
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-190
+client/features/workspaces/lib/workspace-gradients.ts
+  s_0e026d7e2eeda5::t_96d1b41acfb165 1,3-10
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 2,11-26
+client/proxy.ts
+  s_0e026d7e2eeda5::t_18eb3de7c2bee0 1,9-10,12-20,22
+  s_ced191e4fbf385::t_6c025e2ab0e7cd 2-8,11,21
+client/features/chat/components/chat-composer.tsx
+  s_ced191e4fbf385::t_3e1c048ba38e9b 1-167
+client/features/chat/components/chat-message-body.tsx
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-104
+client/features/auth/components/login-form.tsx
+  s_0e026d7e2eeda5::t_c04b4867e24239 1-133
+client/features/learn/lib/types.ts
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-40
+client/features/chat/hooks/use-conversations.ts
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-84
+client/features/learn/components/artifact-detail.tsx
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-135
+client/features/sources/hooks/use-sources.ts
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-213
+client/.agents/skills/better-ui/performance.md
+  s_ced191e4fbf385::t_a3e3aab2646b25 1-63
+client/features/landing/index.ts
+  s_ced191e4fbf385::t_2852479d1dc2ec 1
+client/features/chat/components/conversation-history.tsx
+  s_ced191e4fbf385::t_96530d338becc1 1-106
+client/features/workspaces/components/workspace-form-dialog.tsx
+  s_ced191e4fbf385::t_f9a9dc5f37467e 1-171
+client/features/learn/components/viewers/summary-viewer.tsx
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-7
+client/shared/components/streamdown-content.tsx
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-32
+client/app/(protected)/workspace/[id]/learn/page.tsx
+  s_ced191e4fbf385::t_6d77b6a7ab8a3d 1-10
+server/src/trigger/process-source.ts
+  s_0e026d7e2eeda5::t_4817396d4956e3 1,16-18,21-40
+  s_0e026d7e2eeda5::t_331cdb12230250 2-15,19-20,41-43
+server/prisma.config.ts
+  s_0e026d7e2eeda5::t_f8a76319fcf37a 10-11
+client/features/workspaces/index.ts
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-32
+client/features/learn/components/learn-hub.tsx
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-127
+client/features/sources/index.ts
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-47
+client/features/auth/lib/auth-server.ts
+  s_ced191e4fbf385::t_dc15296945efa0 1-25
+client/shared/components/providers/query-provider.tsx
+  s_ced191e4fbf385::t_361e01c46eb3a9 1-28
+client/features/learn/hooks/use-artifacts.ts
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-78
+client/features/memory/lib/api.ts
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-30
+client/features/sources/components/source-status-badge.tsx
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-30
+client/app/(protected)/workspace/[id]/settings/page.tsx
+  s_ced191e4fbf385::t_f3dd4ed7959748 1-20
+client/features/memory/hooks/use-memories.ts
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-61
+client/features/sources/components/add-source-dialog.tsx
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-438
+client/app/page.tsx
+  s_ced191e4fbf385::t_2852479d1dc2ec 1,3-5,7-9,12
+  s_0e026d7e2eeda5::t_8707d92bb760ab 2
+  s_ced191e4fbf385::t_2d9b4df7a608da 6
+client/features/auth/index.ts
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-17
+client/features/auth/lib/auth-client.ts
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-5
+client/features/sources/components/source-library.tsx
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-467
+client/features/chat/lib/types.ts
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-28
+client/features/chat/components/workspace-chat.tsx
+  s_ced191e4fbf385::t_9284d2a95d2744 391
+  s_ced191e4fbf385::t_372e2ca3b3ba39 1-36,38-390,392-558
+  s_ced191e4fbf385::t_99da341650d2e3 37
+client/features/workspaces/components/dashboard-home.tsx
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-301
+client/features/workspaces/components/workspace-header-actions.tsx
+  s_ced191e4fbf385::t_a688d46ae959e9 1-36
+client/features/workspaces/components/workspace-list.tsx
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-153
+client/features/learn/components/generate-artifact-dialog.tsx
+  s_3c92245d94e819::t_e9b84ad6323a03 4-6,24-25,41,43-47,49-55,58,60-72,75,79,86,91-119,172,178-182
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-3,7-23,26-40,42,48,56-57,59,73-74,76-78,80-85,87-90,120-171,173-177,183-191
+server/.npmrc
+  s_8607e8332ebda7::t_5956229a37a964 1
+client/features/auth/components/sign-out-button.tsx
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-39
+client/.agents/skills/better-ui/SKILL.md
+  s_ced191e4fbf385::t_a3e3aab2646b25 1-133
+client/features/learn/index.ts
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-9
+client/app/layout.tsx
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 5-6
+  s_0e026d7e2eeda5::t_25da342e714682 2,8,10-11,14,16,60
+  s_ced191e4fbf385::t_2d9b4df7a608da 1
+  s_ced191e4fbf385::t_1218c05920cfd2 19-22,24-49
+  s_0e026d7e2eeda5::t_344b71415b8351 70
+client/features/learn/lib/api.ts
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-34
+client/features/sources/components/source-sidebar-list.tsx
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-104
+client/features/chat/components/citation-preview.tsx
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-118
+client/shared/lib/server-env.ts
+  s_ced191e4fbf385::t_15982e990eeff5 1-4
+server/trigger.config.ts
+  s_0e026d7e2eeda5::t_331cdb12230250 1-4,6-14
+  s_0e026d7e2eeda5::t_c414b7777f5f4d 5
+server/src/services/artifact.services.ts
+  s_0e026d7e2eeda5::t_845b450a5bd1b9 66,137
+client/features/learn/components/viewers/quiz-viewer.tsx
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-2,4-21,26-29,31-245
+  s_ced191e4fbf385::t_5f2f310fcd706c 3,22-25,30
+client/app/(auth)/sign-in/page.tsx
+  s_0e026d7e2eeda5::t_ea1368fde51d4b 1-6,8-18
+  s_ced191e4fbf385::t_2d9b4df7a608da 7
+server/src/services/source.services.ts
+  s_3c92245d94e819::t_8d7186586b871b 11,14,16-23
+  s_3c92245d94e819::t_437dac715f6337 97-188
+  s_0e026d7e2eeda5::t_845b450a5bd1b9 235
+client/features/chat/index.ts
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-4
+client/shared/components/chaibook-logo.tsx
+  s_ced191e4fbf385::t_692d7a6dfbd627 1-31
+client/features/auth/lib/auth-routes.ts
+  s_0e026d7e2eeda5::t_2f907f01c32ce7 1-25
+server/src/routes/index.ts
+  s_3c92245d94e819::t_35d58ddf55abdb 2-3,10-11,14
+client/features/workspaces/components/workspace-card.tsx
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-114
+client/components/ui/sidebar.tsx
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 8
+client/features/learn/components/viewers/mindmap-viewer.tsx
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-657
+client/features/workspaces/components/create-workspace-card.tsx
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-35
+client/shared/lib/api.ts
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-47
+client/features/sources/components/source-type-icon.tsx
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-27
+client/features/sources/lib/api.ts
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-163
+client/shared/hooks/use-debounced-value.ts
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-17
+client/features/workspaces/components/workspace-settings-form.tsx
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-55,59-160
+  s_ced191e4fbf385::t_85fb3cd25b767d 56-58
+client/shared/components/providers/theme-provider.tsx
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-11
+client/package.json
+  s_0e026d7e2eeda5::t_2f907f01c32ce7 14-15,18,20-22,30,39,41-42
+  s_ced191e4fbf385::t_70c348ad845dc3 9-11,53-55
+client/.agents/skills/better-ui/animations.md
+  s_ced191e4fbf385::t_a3e3aab2646b25 1-170
+client/features/landing/components/product-preview.tsx
+  s_ced191e4fbf385::t_f7c4ce204ecd03 1-109
+client/components/ui/mode-toggle.tsx
+  s_0e026d7e2eeda5::t_3d27a184264f40 20-23
+client/features/sources/components/source-detail.tsx
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-162
+client/features/chat/lib/export-chat.ts
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-74
+client/app/(protected)/workspace/[id]/sources/[sourceId]/page.tsx
+  s_ced191e4fbf385::t_0514399eeff758 1-12
+server/src/trigger/summarize-conversation.ts
+  s_0e026d7e2eeda5::t_331cdb12230250 1-7,11,14-15
+  s_0e026d7e2eeda5::t_4817396d4956e3 8-10,12-13
+client/app/(protected)/settings/memory/page.tsx
+  s_ced191e4fbf385::t_63b6b1c2cd939a 1,4-5
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 2-3,6-11
+client/components.json
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 20
+client/features/learn/components/viewers/flashcards-viewer.tsx
+  s_ced191e4fbf385::t_5f2f310fcd706c 59-63,68
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-58,64-67,69-404
+client/features/sources/lib/constants.ts
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-31
+client/app/(protected)/dashboard/page.tsx
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 2-3,6-11
+  s_ced191e4fbf385::t_63b6b1c2cd939a 1,4-5
+client/app/(protected)/workspace/[id]/page.tsx
+  s_ced191e4fbf385::t_427f86efb80c84 1-23
+client/features/chat/components/citation-marker.tsx
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-50
+client/features/workspaces/lib/routes.ts
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-9
+client/app/(protected)/workspace/[id]/layout.tsx
+  s_ced191e4fbf385::t_63b6b1c2cd939a 1-37
+client/app/(protected)/workspace/[id]/loading.tsx
+  s_ced191e4fbf385::t_cd4a99fa82d9b0 1-21
+client/app/(protected)/workspace/[id]/learn/[artifactId]/page.tsx
+  s_ced191e4fbf385::t_d724fa8c67feb9 1-10
+server/src/lib/source-events.ts
+  s_0e026d7e2eeda5::t_331cdb12230250 1,3
+  s_0e026d7e2eeda5::t_4817396d4956e3 9
+client/features/auth/lib/unauth.ts
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-11
+client/features/memory/components/memory-settings.tsx
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-183
+client/features/workspaces/hooks/use-workspaces.ts
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-68
+client/app/globals.css
+  s_0e026d7e2eeda5::t_25da342e714682 4-7,14-16,53-77,81-133,137-188,197,203-204
+  s_ced191e4fbf385::t_2852479d1dc2ec 205-213,215-227
+server/src/services/conversation-memory.services.ts
+  s_0e026d7e2eeda5::t_845b450a5bd1b9 15
+client/app/sitemap.ts
+  s_ced191e4fbf385::t_199582dfcdb590 1-10
+client/app/(protected)/workspace/[id]/sources/page.tsx
+  s_ced191e4fbf385::t_8b2d367d26d176 1-12
+client/features/memory/index.ts
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-4
+client/features/workspaces/lib/api.ts
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-34
+client/features/learn/components/artifact-content-viewer.tsx
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-89
+client/features/learn/lib/routes.ts
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-5
+server/.gitignore
+  s_0e026d7e2eeda5::t_c414b7777f5f4d 7-8
+  s_b1e2c19ab0ce1b::t_4ba5ee6aef941f 6,9-13
+client/shared/hooks/use-mobile.ts
+  s_ced191e4fbf385::t_5f2f310fcd706c 4,6-10,12-17
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-3,5,11,18
+client/features/learn/lib/constants.ts
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-35
+client/features/landing/components/landing-page.tsx
+  s_ced191e4fbf385::t_6d1bc3bf6c2487 1-15,17-110,112-264,266-271
+  s_ced191e4fbf385::t_6fd26f4e07ac5d 16,111,265
+client/features/chat/components/citation-sources.tsx
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-165
+client/features/workspaces/lib/types.ts
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-18
+server/.env.example
+  s_b1e2c19ab0ce1b::t_b1672e95c0fb9a 28
+  s_b1e2c19ab0ce1b::t_5238abca7859f4 1-27,29-43
+client/features/auth/lib/require-auth.ts
+  s_0e026d7e2eeda5::t_7ea86e8e1d77eb 1-13
+client/.claude/skills/better-ui/SKILL.md
+  s_ced191e4fbf385::t_dc012cf63b511d 1-133
+client/.claude/skills/better-ui/agents/openai.yaml
+  s_ced191e4fbf385::t_65d8851dc34574 1-3
+client/.claude/skills/better-ui/animations.md
+  s_ced191e4fbf385::t_af8a7d081edada 1-170
+client/.claude/skills/better-ui/enter-exit.md
+  s_ced191e4fbf385::t_5091956f89cf6c 1-157
+client/.claude/skills/better-ui/icon-transitions.md
+  s_ced191e4fbf385::t_0b94b8a98bf043 1-72
+client/.claude/skills/better-ui/icons.md
+  s_ced191e4fbf385::t_55a91cd2311b92 1-105
+client/.claude/skills/better-ui/performance.md
+  s_ced191e4fbf385::t_45003cbc6bfc18 1-63
+client/.claude/skills/better-ui/surfaces.md
+  s_ced191e4fbf385::t_108ae04b015626 1-166
+client/package-lock.json
+  s_0e026d7e2eeda5::t_bc611c36b1f135 11-12,15,17-19,27,36,38-39,52-153,195,642-756,761-762,955,1000-1002,2009-2032,2459-2525,2550-2561,2966-2974,3005-3010,3032-3059,3066-3083,3098-3112,3129,3140,3145-3150,3208,3459-3464,3736-3747,3759-3769,3812-3896,3916,3934-3950,4303-4312,4332-4469,4549,4665-4674,4692-4731,4744-4749,4834-4843,5084-5105,5161-5170,5216-5250,5317,5361-5373,5480-5485,5495-5503,5520-5532,5612-5613,5680-5691,5951,6137,6356-6365,6443,6501-6506,6706-6709,6711-6740,7094-7265,7288,7293-7312,7409-7414,7467-7490,7655-7664,7753-7762,8126,8184-8189,8269-8278,8643-8652,8694-8715,8725-8728,8730-8734,8738,8741-8744,8747,8753-8756,8758-8774,8777-8780,8783-8789,8791-8793,8796-8799,8801-8810,8813-8816,8819-8823,8827,8830-8833,8835-8842,8845-8848,8850-8857,8860-8861,8864-8868,8870-9701,9716-9756,9781-9796,9834,10152-10168,10341-10365,10396-10407,10681-10690,10783,10819,10831-10832,10839,10993-10994,11028-11051,11073-11182,11282-11287,11460-11465,11697-11712,11821-11830,11873-11899,12064-12077,12153-12161,12211-12223,12281-12292,12340,12369-12388,12581,12634-12636,12661-12747,12920-12961,12984-12993,13177-13179,13181,13207-13245
+server/package-lock.json
+  s_3c92245d94e819::t_554858348b0564 18,36,41-43,143-147,157-183,185-188,326-542,544-554,1025-1028,1031,1034-1038,1041,1043-1044,1047-1052,1054,1057,1060-1063,1106-1116,1119-1150,1187-1189,1198-1201,1204,1210,1213-1216,1219-1222,1227,1230-1233,1236,1239-1242,1245,1248-1253,1255,1258-1268,1271-1274,1277-1280,1283,1286,1289-1298,1301-1310,1313-1316,1319-1329,1331-1345,1348-1351,1354,1357-1361,1364-1367,1370-1379,1382,1385-1388,1391-1393,1396-1399,1402,1405-1408,1411,1414-1429,1432-1435,1438-1439,1442-1445,1448-1458,1461-1462,1465-1467,1470-1486,1488-1494,1497-1501,1503,1506-1517,1520-1524,1526,1529-1535,1538-1542,1544-1546,1549-1560,1563-1567,1569-1570,1573-1579,1582-1586,1588,1591-1597,1600-1604,1606-1612,1615-1632,1634-1635,1638-1661,1663-1665,1668-1672,1674,1677-1681,1683-1684,1687,1690-1695,1697-1702,1705,1708-1717,1720-1724,1727-1730,1733-1738,1740-1751,1754-1759,1762-1767,1769-1771,1774-1779,1781-1786,1788,1791,1793-1794,1797-1802,1804,1806-1807,1810-1815,1817-1818,1821-1826,1828-1833,1835-1836,1839-1844,1846-1851,1853-1855,1858-1863,1865-1870,1872-1873,1876-1881,1883,1885-1887,1890-1929,1932,1935-1938,1944,1947-1950,1953,1959,1962-1965,1968-1972,1981-1984,1987-1991,2000-2003,2006-2010,2019-2022,2025-2026,2035-2038,2041-2046,2055-2058,2061-2062,2068,2071-2074,2077-2080,2086,2089-2092,2095-2096,2102,2105-2109,2112-2114,2120,2123-2127,2130-2132,2138,2141-2147,2150-2155,2157-2161,2164,2167-2172,2174-2189,2192-2196,2198-2201,2204,2207-2225,2228-2231,2234,2237-2245,2248-2253,2255,2258-2263,2265,2268-2272,2274-2278,2280-2284,2286-2290,2292-2296,2298,2301-2305,2307,2310-2314,2316-2320,2322,2325-2329,2331,2334-2338,2340-2344,2346-2351,2353-2355,2358-2363,2365-2368,2371-2375,2377-2382,2384-2388,2390-2394,2396-2397,2400-2404,2406,2409-2412,2416,2419-2423,2425-2427,2430-2435,2437-2448,2450,2453-2458,2460-2465,2467,2470-2475,2477-2478,2481-2488,2490-2495,2498-2505,2507-2512,2515-2522,2524-2529,2532-2539,2541-2546,2549-2556,2558-2563,2566-2573,2575-2578,2580,2590,2607,2624,2641,2658,2675,2692,2709,2726,2743,2760,2777,2794,2811,3006,3019,3082-3104,3106-3108,3110,3113,3116-3120,3126,3129-3134,3136-3137,3140-3153,3190-3197,3350-3354,3357-3360,3363-3367,3407-3410,3413-3416,3423,3438-3453,3502-3751,3754-3756,3759,3762-3772,3774,3777,3780-3787,3789-3793,3795,3798,3801-3814,3816,3819,3822-3826,3828,3831,3834-3837,3840,3843-3857,3859-3869,3871-3874,3877,3883-3890,3892,3895-3898,3901,3904,3906-3909,3912-3919,3921-3925,3928-3929,3932-3935,3938-3942,3945-3948,3951-3955,3958-3960,3963,3966,3969-4000,4003,4006-4009,4012,4015-4018,4021,4024-4036,4039-4043,4045-4048,4051-4054,4057-4059,4062,4065-4074,4077-4078,4081-4091,4094-4097,4100,4103-4106,4109,4112-4115,4117-4122,4125-4128,4131,4134-4137,4140,4143,4146-4150,4153,4155-4156,4159-4163,4165,4168-4172,4174,4177-4181,4183-4187,4189,4192,4195-4205,4207,4210-4218,4221-4249,4252-4262,4264,4267-4271,4273,4276-4280,4282,4285,4288-4291,4294,4297-4301,4304-4342,4345,4347-4349,4352-4356,4359-4360,4363,4366-4369,4372-4391,4393-4395,4397,4400-4404,4406-4409,4412-4426,4428,4431-4451,4454-4462,4465-4473,4475,4478-4481,4483-4490,4492-4496,4499-4508,4510,4513-4516,4518-4523,4525,4528-4532,4534,4537-4546,4549-4554,4557-4561,4563-4570,4573-4576,4578-4584,4586,4589-4592,4595-4598,4601,4604-4607,4609-4611,4613,4616-4619,4622-4626,4629-4632,4635,4638-4641,4644,4647-4650,4653,4656-4661,4663,4666,4669-4674,4676,4679,4682-4692,4696-4699,4701,4704-4707,4709-4710,4713-4716,4718-4719,4722-4725,4727-4738,4740-4743,4746-4755,4757-4760,4762,4765-4768,4770-4771,4774-4779,4781-4786,4788,4791,4794-4797,4800,4803,4806-4815,4818-4821,4824-4828,4831-4834,4837-4841,4844-4847,4850-4860,4862-4865,4868,4871-4874,4877-4880,4883,4886,4889-4893,4896,4899-4902,4905-4909,4912-4916,4919-4922,4925-4926,4929,4932-4936,4938,4941-4944,4946-4947,4950-4954,4956,4959,4962-4963,4966-4970,4972-4987,4989-4991,4994,4997-5001,5003-5008,5010,5013-5017,5019,5022-5026,5029,5032-5035,5038,5041-5045,5048,5051,5054-5058,5060-5062,5064-5067,5070-5074,5076-5078,5080-5083,5086-5090,5092-5094,5096-5099,5103,5106-5110,5112-5116,5119-5124,5126-5129,5132-5135,5138-5142,5145-5148,5151-5155,5158,5161-5177,5180,5183,5186,5189-5208,5211-5214,5216-5217,5220-5226,5229-5248,5250-5252,5255-5259,5268-5272,5275-5288,5291,5294-5336,5338-5339,5342-5345,5347-5348,5351-5352,5355-5358,5360-5365,5367-5518,5521-5524,5526-5542,5544-5557,5560-5564,5566-5569,5571-5572,5575-5585,5587-5590,5593,5596-5599,5601-5603,5605,5608-5609,5612-5624,5626,5629,5632,5635-5642,5645-5649,5652,5655,5658-5662,5664-5665,5668,5671-5675,5678-5681,5684-5695,5698-5700,5703-5718,5721-5724,5727,5734-5738,5740,5743-5747,5749,5752-5755,5757-5759,5761,5764-5767,5769-5772,5774,5777-5780,5783-5791,5794,5797-5800,5802-5804,5806,5809-5818,5820-5822,5824,5827-5839,5842-5845,5848,5851-5865,5868,5871-5874,5877,5880-5888,5891-5902,5905-5917,5920-5924,5927-5931,5934-5940,5943-5949,5952-5956,5958-5959,5962-5966,5968-5970,5972,5975-5979,5982-5985,5988-5992,5995-5998,6001-6006,6008,6011-6015,6017-6024,6026,6029-6033,6036-6044,6046-6049,6052,6055-6058,6062-6064,6067,6069-6071,6074,6077-6087,6089,6092,6095-6099,6101,6104-6109,6111-6114,6116-6129,6132-6134,6136,6139,6142-6153,6156-6160,6163-6166,6169-6173,6175-6177,6185-6189,6192-6194,6197-6200,6203-6207,6210,6213-6216,6219,6222-6225,6228-6242,6244-6245,6248-6252,6254-6264,6266-6270,6273,6275-6284,6287-6290,6292,6294-6304,6306,6309-6312,6314-6316,6318-6321,6324-6328,6330-6334,6337,6340-6391,6394-6405,6407-6416,6418-6427,6430-6434,6436,6439-6442,6445,6448,6451-6455,6458,6461,6463-6469,6472-6476,6479-6487,6490,6493-6494,6497,6500,6505-6510,6512-6513,6516,6519-6522,6525-6527,6530-6534,6536-6539,6542-6543,6546,6549-6552,6555,6558-6568,6571-6576,6579,6581-6585,6587-6588,6591,6593-6594,6597-6600,6603,6605-6607,6610-6613,6615-6619,6622,6625-6628,6630-6632,6635-6638,6641-6643,6646,6649-6652,6654-6659,6662-6665,6667-6668,6671-6674,6677,6680-6683,6685-6688,6690,6693-6697,6700-6703,6705-6706,6708-6709,6711-6712,6715-6718,6721,6724-6727,6730,6733-6737,6739-6742,6745-6748,6751-6755,6758,6761-6766,6768,6770-6771,6774-6778,6780-6781,6784-6817,6819-6823,6826-6829,6832-6839,6842,6845-6848,6850-6865,6871-6874,6876-6879,6882-6885,6888,6890-6892,6895-6898,6901-6905,6908-6913,6916,6919-6925,6927-6928,6930-6932,6934,6937-6940,6942-6943,6946,6948-6949,6951-6957,6959,6962,6965-6968,6971-6973,6975,6978,6981-6984,6986-6991,6993-6996,6999-7002,7004-7010,7012-7015,7018-7022,7024-7027,7030-7034,7037,7040,7043-7047,7050-7053,7056-7059,7062,7065-7068,7071-7072,7075,7078-7085,7088-7092,7095,7098-7102,7105-7106,7109-7113,7115,7118-7121,7123-7124,7127-7130,7133,7136-7139,7142-7145,7147,7150,7152-7153,7155-7156,7159-7163,7166-7168,7171,7174-7178,7181,7184-7188,7191,7193-7194,7197-7201,7204,7207-7210,7213-7217,7220,7223,7226-7230,7232-7234,7236,7239-7242,7244-7256,7258-7262,7265-7277,7279,7282-7285,7288,7291-7301,7304-7305,7308,7311,7314-7318,7320-7322,7324,7327-7330,7333,7336-7340,7343,7346-7349,7352-7356,7359-7416,7419,7422-7427,7429,7431-7436,7439-7446,7448-7451,7453,7456-7463,7465-7468,7470,7473-7480,7482-7485,7487,7490-7497,7499-7502,7504,7507-7514,7516-7519,7521,7524-7531,7533-7536,7538,7541-7548,7550-7553,7555,7558-7565,7567-7570,7572,7575-7582,7584-7587,7589,7592-7599,7601-7604,7606,7609-7616,7618-7621,7623,7626-7631,7633,7635-7641,7643-7648,7650,7652-7657,7660-7667,7669-7672,7674,7677-7684,7686-7691,7694-7706,7708,7711-7718,7720-7723,7725,7728-7735,7737-7740,7742,7745-7752,7754-7757,7759,7762-7769,7771-7774,7776,7779-7791,7793,7796-7803,7805-7810,7813-7820,7822-7825,7827,7830-7834,7837-7848,7850-7856,7859-7864,7866-7870,7873-7877,7880-7886,7889-7895,7898-7913,7918,7921-7926,7928-7929,7932-7965,7967-7977,7980-7994,7996,7999-8004,8006-8009,8012,8015-8019,8021-8022,8025-8030,8032,8035-8039,8041-8043,8046,8049-8054,8056-8059,8062-8066,8069-8077,8080-8107,8110-8114,8117-8119,8122-8127,8129-8133,8136-8137,8140-8144,8146-8148,8150,8153-8164,8167-8187,8249,8286-8291,8293-8304,8420-8424,8426-8429,8432,8434-8444,8447-8451,8454,8457,8460,8463-8467,8470,8473,8475-8476,8479-8483,8486,8489-8492,8495-8498,8500,8512-8517,8519,8522-8526,8529,8531-8532,8555-8557,8571-8582
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4ca1baeea9fedc32c5e808024304027e67d7eef3",
+  "prompts": {},
+  "humans": {
+    "h_8dfeaef981cbe6": {
+      "author": "pritamscodee <codewithpritam29@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_0e026d7e2eeda5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9c5893a4-8299-44d0-beb3-af2ba4fe2ab8",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "pritamscodee <codewithpritam29@gmail.com>"
+    },
+    "s_3c92245d94e819": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c0a8a690-a069-4d54-b8bf-b031fa574c7f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "pritamscodee <codewithpritam29@gmail.com>"
+    },
+    "s_8607e8332ebda7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3caa1ea6-de4b-4e05-998d-576d43637fc5",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "pritamscodee <codewithpritam29@gmail.com>"
+    },
+    "s_b1e2c19ab0ce1b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b56126c3-7fc5-471b-981c-da0948ae0dd1",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "pritamscodee <codewithpritam29@gmail.com>"
+    },
+    "s_ced191e4fbf385": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "cc0dcc8d-a420-4d19-9f80-6e78dddb1a53",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "pritamscodee <codewithpritam29@gmail.com>"
+    }
+  }
+}
