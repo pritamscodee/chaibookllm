@@ -1,0 +1,329 @@
+client/features/sources/components/add-source-dialog.tsx
+  s_0e026d7e2eeda5::t_6908e123044a87 1-438
+client/.claude/skills/better-ui/icon-transitions.md
+  s_ced191e4fbf385::t_fc3a46daa36c84 1-72
+client/features/workspaces/components/workspace-form-dialog.tsx
+  s_ced191e4fbf385::t_17068115fab373 1-171
+server/.gitignore
+  s_b1e2c19ab0ce1b::t_334bdc426080fe 1-13
+client/features/sources/lib/api.ts
+  s_0e026d7e2eeda5::t_61b9f9f7292971 1-163
+client/features/memory/lib/routes.ts
+  s_0e026d7e2eeda5::t_97df69b22bbfa6 1-3
+client/features/workspaces/components/workspace-card.tsx
+  s_0e026d7e2eeda5::t_94e869eb95e30f 1-114
+client/features/memory/index.ts
+  s_0e026d7e2eeda5::t_699d70e1999196 1-4
+client/features/sources/components/source-sidebar-list.tsx
+  s_0e026d7e2eeda5::t_bf9e43aa99fc49 1-104
+client/app/(protected)/dashboard/page.tsx
+  s_ced191e4fbf385::t_d362066f995468 1-11
+client/components/ui/carousel.tsx
+  s_ced191e4fbf385::t_59e0e37a22094d 1-244
+server/src/services/conversation-memory.services.ts
+  s_0e026d7e2eeda5::t_b968a9c9825c79 1-83
+client/components/ui/sidebar.tsx
+  s_0e026d7e2eeda5::t_df9066bd8b49cd 1-726
+client/features/workspaces/lib/workspace-gradients.ts
+  s_0e026d7e2eeda5::t_9fc92c5347ae1c 1-26
+server/src/lib/source-events.ts
+  s_0e026d7e2eeda5::t_04a2c1d145d93d 1-10
+client/skills-lock.json
+  s_ced191e4fbf385::t_17d875bfef6aed 1-11
+client/features/sources/hooks/use-sources.ts
+  s_0e026d7e2eeda5::t_743a21b853d4f2 1-213
+server/src/controllers/source.controller.ts
+  s_3c92245d94e819::t_b475f0df9c6750 1-231
+client/features/landing/index.ts
+  s_ced191e4fbf385::t_bb81112bde9952 1
+client/features/workspaces/hooks/use-workspaces.ts
+  s_0e026d7e2eeda5::t_3a4b1db840513f 1-68
+client/features/chat/components/citation-marker.tsx
+  s_0e026d7e2eeda5::t_69659ae969cd0f 1-50
+client/app/(auth)/layout.tsx
+  s_0e026d7e2eeda5::t_31ab0ce391c024 1-24
+client/.claude/skills/better-ui/icons.md
+  s_ced191e4fbf385::t_fdb0d5a30fe6f7 1-105
+client/features/learn/components/learn-hub.tsx
+  s_0e026d7e2eeda5::t_9ddb8e04acd943 1-127
+client/.agents/skills/better-ui/performance.md
+  s_ced191e4fbf385::t_0d02d059ef66be 1-63
+client/features/workspaces/lib/routes.ts
+  s_0e026d7e2eeda5::t_245210765e4bc3 1-9
+client/.gitignore
+  s_ced191e4fbf385::t_bff17319d7d664 1-42
+server/src/routes/chat.routes.ts
+  s_3c92245d94e819::t_56252cdf18cadd 1-24
+client/features/chat/lib/export-chat.ts
+  s_0e026d7e2eeda5::t_28a9a4b103e7e0 1-74
+server/trigger.config.ts
+  s_0e026d7e2eeda5::t_dbafd045d4c0ad 1-14
+server/nodemon.json
+  s_3c92245d94e819::t_41eb74ec43cc34 1-7
+client/.agents/skills/better-ui/SKILL.md
+  s_ced191e4fbf385::t_8dfe6d77311c98 1-133
+client/features/auth/lib/auth-server.ts
+  s_ced191e4fbf385::t_b6492a039fa865 1-25
+server/src/routes/artifact.routes.ts
+  s_3c92245d94e819::t_d2088b7c0fcbc2 1-16
+client/features/auth/lib/auth-routes.ts
+  s_0e026d7e2eeda5::t_ade5be867c9d89 1-25
+client/features/memory/hooks/use-memories.ts
+  s_0e026d7e2eeda5::t_62149d745fa16c 1-61
+client/.agents/skills/better-ui/icon-transitions.md
+  s_ced191e4fbf385::t_8460e688dd9b50 1-72
+client/features/auth/index.ts
+  s_0e026d7e2eeda5::t_8770d3238b4043 1-17
+server/package-lock.json
+  s_3c92245d94e819::t_8fc05507b6cc17 1-8585
+client/features/workspaces/lib/workspace-server.ts
+  s_ced191e4fbf385::t_541a558debdb72 1-28
+client/.claude/skills/better-ui/enter-exit.md
+  s_ced191e4fbf385::t_67c72bff0359d3 1-157
+client/features/learn/components/viewers/summary-viewer.tsx
+  s_0e026d7e2eeda5::t_3f639f719df981 1-7
+client/features/sources/components/source-card.tsx
+  s_0e026d7e2eeda5::t_a6bc0a87905421 1-125
+client/shared/hooks/use-debounced-value.ts
+  s_0e026d7e2eeda5::t_1fada908428add 1-17
+client/features/memory/components/memory-settings.tsx
+  s_0e026d7e2eeda5::t_6dfb61f9d4dad6 1-183
+client/features/learn/components/viewers/report-viewer.tsx
+  s_0e026d7e2eeda5::t_eec41bd50ea99a 1-34
+client/features/chat/components/chat-message-body.tsx
+  s_0e026d7e2eeda5::t_15bd385f9fae37 1-104
+client/app/layout.tsx
+  s_ced191e4fbf385::t_1ad52cda93eb3c 1-75
+client/app/(protected)/workspace/[id]/layout.tsx
+  s_ced191e4fbf385::t_4feed206e3c441 1-37
+client/.claude/skills/better-ui/animations.md
+  s_ced191e4fbf385::t_38094759e01d8d 1-170
+client/.claude/skills/better-ui/agents/openai.yaml
+  s_ced191e4fbf385::t_41e0f56bcba7b5 1-3
+client/features/auth/lib/auth-client.ts
+  s_0e026d7e2eeda5::t_9eb4303e3c2001 1-5
+client/.agents/skills/better-ui/agents/openai.yaml
+  s_ced191e4fbf385::t_0b7f8e22b1c2d1 1-3
+server/tsconfig.json
+  s_0e026d7e2eeda5::t_e650e7f2c1ca51 1-25
+client/features/workspaces/components/workspace-list.tsx
+  s_0e026d7e2eeda5::t_37e3071fa059bc 1-153
+client/shared/components/streamdown-content.tsx
+  s_0e026d7e2eeda5::t_cdec8729ddc31a 1-32
+client/features/workspaces/lib/types.ts
+  s_0e026d7e2eeda5::t_92c0eb5ca3155b 1-18
+server/src/trigger/process-source.ts
+  s_0e026d7e2eeda5::t_93272b4887b1e4 1-43
+client/features/workspaces/index.ts
+  s_0e026d7e2eeda5::t_2e454a502684c7 1-32
+client/shared/lib/api.ts
+  s_0e026d7e2eeda5::t_70246317cd9ef7 1-47
+server/src/trigger/generate-artifact.ts
+  s_0e026d7e2eeda5::t_0b1cb811a4b9e7 1-15
+client/features/auth/lib/unauth.ts
+  s_0e026d7e2eeda5::t_4cda1c246b7218 1-11
+client/shared/components/providers/theme-provider.tsx
+  s_0e026d7e2eeda5::t_403dd5224a9dfc 1-11
+client/features/workspaces/components/dashboard-home.tsx
+  s_0e026d7e2eeda5::t_88f933f90827a9 1-301
+server/src/lib/artifact-events.ts
+  s_0e026d7e2eeda5::t_ae1d8c14daa134 1-10
+client/features/learn/components/artifact-content-viewer.tsx
+  s_0e026d7e2eeda5::t_a556afe59d8827 1-89
+client/app/(protected)/settings/memory/page.tsx
+  s_ced191e4fbf385::t_1765c36d62741b 1-11
+client/features/learn/components/artifact-detail.tsx
+  s_0e026d7e2eeda5::t_8b46058a52925c 1-135
+client/features/landing/components/product-preview.tsx
+  s_ced191e4fbf385::t_c4878874fd8525 1-109
+client/features/workspaces/components/workspace-shell.tsx
+  s_0e026d7e2eeda5::t_be19fd8873d70c 1-190
+README.md
+  s_55bd14b6f277c4::t_b6532caa522006 1-31
+client/features/learn/components/viewers/takeaways-viewer.tsx
+  s_0e026d7e2eeda5::t_c85099fde6f3ac 1-90
+server/package.json
+  s_b1e2c19ab0ce1b::t_8abb765d6828de 1-61
+server/.npmrc
+  s_8607e8332ebda7::t_bc5ff345483c22 1
+server/prisma.config.ts
+  s_0e026d7e2eeda5::t_ed5e412f02f32d 1-13
+client/features/auth/lib/require-auth.ts
+  s_0e026d7e2eeda5::t_9b7aece6fe03a5 1-13
+client/features/workspaces/lib/api.ts
+  s_0e026d7e2eeda5::t_d56caf23cbd02a 1-34
+client/.claude/skills/better-ui/surfaces.md
+  s_ced191e4fbf385::t_2814271e506586 1-166
+client/features/workspaces/components/create-workspace-card.tsx
+  s_0e026d7e2eeda5::t_b89d3e2f5e24b9 1-35
+client/features/learn/components/viewers/flashcards-viewer.tsx
+  s_ced191e4fbf385::t_98b6247dd2e5fd 1-404
+client/features/memory/lib/api.ts
+  s_0e026d7e2eeda5::t_c055b0e17945fb 1-30
+client/features/learn/components/artifact-status-badge.tsx
+  s_0e026d7e2eeda5::t_369d8029c4fa37 1-31
+client/features/auth/components/sign-out-button.tsx
+  s_0e026d7e2eeda5::t_afe240de182180 1-39
+client/features/sources/components/source-library.tsx
+  s_0e026d7e2eeda5::t_71f1470dd68759 1-467
+client/features/learn/lib/types.ts
+  s_0e026d7e2eeda5::t_5985e69440ca57 1-40
+client/features/landing/components/landing-page.tsx
+  s_ced191e4fbf385::t_7c77eb5e20b9eb 1-271
+client/features/auth/hooks/use-session.ts
+  s_0e026d7e2eeda5::t_b8f9fc9b6aaeee 1
+client/app/page.tsx
+  s_ced191e4fbf385::t_3e7c86c8fea891 1-13
+client/app/(auth)/sign-in/page.tsx
+  s_ced191e4fbf385::t_790db89f78226b 1-18
+client/features/sources/index.ts
+  s_0e026d7e2eeda5::t_1fe33d4ab91b38 1-47
+client/features/sources/components/source-detail.tsx
+  s_0e026d7e2eeda5::t_004b111e5e8a5c 1-162
+server/src/services/artifact.services.ts
+  s_0e026d7e2eeda5::t_112572e42164c7 1-196
+client/app/globals.css
+  s_ced191e4fbf385::t_46402601fcc817 1-227
+client/features/sources/components/source-type-icon.tsx
+  s_0e026d7e2eeda5::t_e392ac9729174c 1-27
+client/features/sources/lib/types.ts
+  s_0e026d7e2eeda5::t_ecfbf60a95470b 1-63
+client/features/auth/components/login-form.tsx
+  s_0e026d7e2eeda5::t_31c1bf0d237ab9 1-133
+server/.env.example
+  s_b1e2c19ab0ce1b::t_80cdae95bc84f9 1-43
+client/features/memory/lib/types.ts
+  s_0e026d7e2eeda5::t_71713ec6d1977f 1-17
+client/.agents/skills/better-ui/surfaces.md
+  s_ced191e4fbf385::t_ae68b2d5433cc4 1-166
+client/features/learn/lib/routes.ts
+  s_0e026d7e2eeda5::t_c5413b0a3ec9da 1-5
+client/features/learn/lib/constants.ts
+  s_0e026d7e2eeda5::t_722ca35e29f466 1-35
+client/features/workspaces/components/delete-workspace-dialog.tsx
+  s_0e026d7e2eeda5::t_cb31983394785a 1-63
+client/shared/hooks/use-mobile.ts
+  s_ced191e4fbf385::t_bdba0a1883bdee 1-18
+client/features/chat/index.ts
+  s_0e026d7e2eeda5::t_22788bba3d26d7 1-4
+client/features/learn/components/viewers/mindmap-viewer.tsx
+  s_0e026d7e2eeda5::t_4b9049bff681c8 1-657
+server/src/lib/conversation-events.ts
+  s_0e026d7e2eeda5::t_58659ed81211ec 1-10
+client/features/learn/hooks/use-artifacts.ts
+  s_0e026d7e2eeda5::t_f1ec472edc6f74 1-78
+client/.claude/skills/better-ui/SKILL.md
+  s_ced191e4fbf385::t_9067a12a4ef8a9 1-133
+client/features/chat/lib/citations.ts
+  s_0e026d7e2eeda5::t_53a1eb5574c56e 1-20
+client/package.json
+  s_ced191e4fbf385::t_14c850f8b7a0a8 1-57
+client/features/learn/components/viewers/quiz-viewer.tsx
+  s_ced191e4fbf385::t_56d7bf70e5cf08 1-245
+client/.agents/skills/better-ui/icons.md
+  s_ced191e4fbf385::t_906144974d19b8 1-105
+client/package-lock.json
+  s_0e026d7e2eeda5::t_f014372fe38133 1-13248
+client/features/learn/index.ts
+  s_0e026d7e2eeda5::t_95366b5f631a8f 1-9
+client/.agents/skills/better-ui/enter-exit.md
+  s_ced191e4fbf385::t_9daa12c3073c78 1-157
+client/features/chat/components/citation-preview.tsx
+  s_0e026d7e2eeda5::t_87da5ecefefde1 1-118
+server/src/routes/index.ts
+  s_3c92245d94e819::t_3c06ffdd0cee0b 1-14
+server/src/trigger/summarize-conversation.ts
+  s_0e026d7e2eeda5::t_f0bec29129b4e1 1-15
+client/features/sources/lib/routes.ts
+  s_0e026d7e2eeda5::t_b03ae688746b34 1-5
+client/.agents/skills/better-ui/animations.md
+  s_ced191e4fbf385::t_f7750d17e9d116 1-170
+client/features/learn/components/generate-artifact-dialog.tsx
+  s_3c92245d94e819::t_b3968b57f9f300 1-191
+client/features/sources/lib/constants.ts
+  s_0e026d7e2eeda5::t_e026bea440f917 1-31
+client/features/chat/components/citation-sources.tsx
+  s_0e026d7e2eeda5::t_720bc69cbcdf90 1-165
+client/features/memory/components/memory-form-dialog.tsx
+  s_ced191e4fbf385::t_a6237c818de611 1-117
+server/src/routes/source.routes.ts
+  s_3c92245d94e819::t_89c80966c1a6fd 1-36
+client/features/chat/lib/types.ts
+  s_0e026d7e2eeda5::t_50309dfe079578 1-28
+server/src/lib/auth.ts
+  s_ced191e4fbf385::t_9ed09dd109f4ef 1-26
+client/features/sources/components/source-status-badge.tsx
+  s_0e026d7e2eeda5::t_d5462cc45e9b46 1-30
+server/src/controllers/chat.controller.ts
+  s_3c92245d94e819::t_8a987e3ea7ea25 1-68
+client/.claude/skills/better-ui/performance.md
+  s_ced191e4fbf385::t_fb7bffcb0308f8 1-63
+client/components.json
+  s_0e026d7e2eeda5::t_a05c214bf85146 1-25
+client/features/chat/lib/api.ts
+  s_0e026d7e2eeda5::t_95aa33974880e1 1-52
+client/features/learn/lib/api.ts
+  s_0e026d7e2eeda5::t_10229ce53332eb 1-34
+client/features/sources/components/markdown-preview.tsx
+  s_0e026d7e2eeda5::t_ce19aad2637eae 1-11
+server/src/controllers/artifact.controller.ts
+  s_3c92245d94e819::t_bdf58e6eba0f74 1-52
+client/features/chat/hooks/use-conversations.ts
+  s_0e026d7e2eeda5::t_effbc335fe4f05 1-84
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a02867dc28c88dc166fa1011ddedb600a5eceb1d",
+  "prompts": {},
+  "sessions": {
+    "s_0e026d7e2eeda5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9c5893a4-8299-44d0-beb3-af2ba4fe2ab8",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "pritamscodee <codewithpritam29@gmail.com>"
+    },
+    "s_3c92245d94e819": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c0a8a690-a069-4d54-b8bf-b031fa574c7f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "pritamscodee <codewithpritam29@gmail.com>"
+    },
+    "s_55bd14b6f277c4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "34de65a3-941b-49a3-8b7b-f689371b8247",
+        "model": "claude-opus-5"
+      },
+      "human_author": "pritamscodee <codewithpritam29@gmail.com>"
+    },
+    "s_8607e8332ebda7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3caa1ea6-de4b-4e05-998d-576d43637fc5",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "pritamscodee <codewithpritam29@gmail.com>"
+    },
+    "s_b1e2c19ab0ce1b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b56126c3-7fc5-471b-981c-da0948ae0dd1",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "pritamscodee <codewithpritam29@gmail.com>"
+    },
+    "s_ced191e4fbf385": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "cc0dcc8d-a420-4d19-9f80-6e78dddb1a53",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "pritamscodee <codewithpritam29@gmail.com>"
+    }
+  }
+}
