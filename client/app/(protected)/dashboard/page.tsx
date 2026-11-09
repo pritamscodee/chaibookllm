@@ -1,0 +1,11 @@
+import type { Metadata } from "next";
+import { requireAuth } from "@/features/auth";
+import { DashboardHome } from "@/features/workspaces/components/dashboard-home";
+
+export const metadata: Metadata = { title: "Dashboard" };
+
+export default async function DashboardPage() {
+    const session = await requireAuth();
+
+    return <DashboardHome userName={session.user.name} />;
+}
